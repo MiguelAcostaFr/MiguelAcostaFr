@@ -60,6 +60,9 @@ Android · Java · PHP · MySQL
 🔒 El código completo no es público.  
 📄 Se publicará documentación técnica y arquitectura con fines demostrativos.
 
+🔗 Documentación del proyecto:  
+https://github.com/MiguelAcostaFr/tfg-gestion-deportiva
+
 ---
 
 ### 🖥️ Backend REST para aplicaciones móviles
